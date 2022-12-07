@@ -6,3 +6,5 @@
 * override
 * crash-логов
 * tfstate
+
+## Для тега v0.0
